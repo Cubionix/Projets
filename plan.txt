@@ -1,0 +1,4 @@
+Voici mon plan afin d'accomplir mes objectifs :
+ - Manger plus sainement : Passer plus de temps à faire les courses et à mieux regarder la composition des produits
+ - Coder une application JAVA : Apprendre le JAVA sur OpenClassroom (Premièrement finir ce cours)
+   Accorder au minimum 4 heures par semaine à l'apprentissage de code.

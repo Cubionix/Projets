@@ -1,3 +1,7 @@
 Liste de mes projets personnels :
  - Lire un livre par mois
  - Ne plus manger de nourriture industrielle
+ - Faire attention à l'environnement en :
+   - Prenant des douches tièdes de moins de 5 minutes
+   - mangeant moins de viande rouge
+ - Tenter de coder une application mobile en JAVA
